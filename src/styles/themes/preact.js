@@ -2,7 +2,7 @@ export const preact = {
   name: "preact",
   toolbarStyle: `
     box-shadow: 0 0 13px rgba(0, 0, 0, 0.55);
-    background-color: #673ab8;
+    background-color: #000000;
   `,
   buttonStyle: `
     border: 1px solid #b1b1b1;

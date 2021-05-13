@@ -32,6 +32,42 @@ const devices = {
     width: 768,
     height: 1024
   },
+  tabletGenerica1: {
+    name: "Tablet Especial 1102 x 1024",
+    tags: [DEVICE_TYPES.TABLET, OS.APPLE],
+    width: 1102,
+    height: 1024
+  },
+  tabletGenerica2: {
+    name: "Tablet Especial 1103 x 1024",
+    tags: [DEVICE_TYPES.TABLET, OS.APPLE],
+    width: 1103,
+    height: 1024
+  },
+  tabletGenerica3: {
+    name: "Tablet Especial 1104 x 1024",
+    tags: [DEVICE_TYPES.TABLET, OS.APPLE],
+    width: 1104,
+    height: 1024
+  },
+  tabletGenerica4: {
+    name: "Tablet Especial 1105 x 1024",
+    tags: [DEVICE_TYPES.TABLET, OS.APPLE],
+    width: 1105,
+    height: 1024
+  },
+  tabletGenerica5: {
+    name: "Tablet Especial 1106 x 1024",
+    tags: [DEVICE_TYPES.TABLET, OS.APPLE],
+    width: 1106,
+    height: 1024
+  },
+  tabletGenerica10: {
+    name: "Tablet Especial 1115 x 1024",
+    tags: [DEVICE_TYPES.TABLET, OS.APPLE],
+    width: 1115,
+    height: 1024
+  },
   nexus6p: {
     name: "Nexus 6P",
     tags: [DEVICE_TYPES.PHONE, OS.ANDROID],

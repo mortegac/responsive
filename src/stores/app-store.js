@@ -21,7 +21,7 @@ import map from "lodash/map";
 class AppStore {
   /* Observables */
   @observable themeIndex: number = 1;
-  @observable url: string = "https://preactjs.com";
+  @observable url: string = "http://localhost:3000";
   @observable filters: Array<string> = [
     ...map(DEVICE_TYPES, device => device),
     ...map(OS, os => os)
