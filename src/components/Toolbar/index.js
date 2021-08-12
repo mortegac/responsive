@@ -45,7 +45,7 @@ class ToolbarComponent extends Component {
       <Toolbar>
 
         <ToolbarLeft>
-          <AppName> FRENON </AppName>
+          <AppName> RIA </AppName>
           <UrlInput
             onChange={app.setUrl}
             value={app.url}

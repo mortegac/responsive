@@ -3,7 +3,7 @@ const dark = {
   backgroundColor: "#211f21",
   color: "#eaeaea",
   toolbarStyle: `
-    background-color: #3c3c3c;
+    background-color: #FF6100;
     box-shadow: 0 0 13px rgba(0, 0, 0, 0.55);
   `,
   buttonStyle: `
